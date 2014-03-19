@@ -1,8 +1,12 @@
+target/
 classes/
 lib/
+.idea/
 *.pyc
+*.swp
+*.swo
 .classpath
 .project
 *.jar
 .lein-deps-sum
-
+.lein-failures
